@@ -1,5 +1,5 @@
 # Fungal Gene Transfer Model
-
+Comparative analysis under different gene transfer probabilities
 ## Overview
 This project presents a simple agent-based simulation of horizontal gene transfer in a structured fungal-like network. The model explores how genetic elements can spread through local interactions between neighboring units over time.
 
